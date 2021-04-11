@@ -1,0 +1,59 @@
+Package: com.pwn20wnd.semirestore11
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Installed-Size: 188
+Depends: cy+cpu.arm64, coreutils-bin, firmware (>= 11.3), firmware (<< 11.4.1)
+Conflicts: org.coolstar.semirestore11-lite
+Replaces: org.coolstar.semirestore11-lite
+Filename: ./debs/非固件一键平刷.deb
+Size: 50888
+MD5sum: 3a4cf2bb1c59fbe23cfd3d515ff0d4af
+SHA1: 71eb91815294b234df4b229828468056385dbeb9
+SHA256: 9dad5db107ac4157f1f70726f61d1313017afe87875db406d7aa485bcdc474e5
+Section: System
+Description: A full system unjailbreaker that supports all devices running iOS 11.3 to 11.4 Beta 3.
+Tag: compatible::ios11
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Depiction: https://repo.chariz.io/package/com.pwn20wnd.semirestore11/
+Icon: file:///Applications/Rollectra.app/AppIcon29x29@2x.png
+Name: SemiRestore11 / Rollectra
+
+Package: com.xxxx.yyyy2
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: noname
+Installed-Size: 7168
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/百事（铂金）.deb
+Size: 1918686
+MD5sum: 4c15ef9d741efc32d50f494520da51db
+SHA1: 01daa7e34cd3bb2defd737bb71d201263acbfe15
+SHA256: 7f83969e1c7eebb687db441262dec29a4fa4ef8afd027b87f3b4a774f0bbf419
+Section: System
+Description: 百事
+Author: noname
+Name: 百事
+
+Package: idv.aqua.eye
+Version: 12.1
+Architecture: iphoneos-arm
+Maintainer: Aqua Wu & Deon <igameguardian@gmail.com>
+Installed-Size: 1372
+Depends: firmware (>= 11.0)
+Filename: ./debs/IME伪装颜王.deb
+Size: 403948
+MD5sum: a4d6f599a25d8774f67818846c64a725
+SHA1: 01651d64bed2728be2a13767662619a0f01b05ad
+SHA256: 51e9145f902a043ccde290e7228360f3d759b9e4deaa8e0c0bf4652ae14b586d
+Section: 共存版
+Priority: optional
+Homepage: https://igg-server.herokuapp.com/
+Description: iME共存版。iMemEditor is a memory editor for iOS 11 to 13.
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11 compatible::ios12
+Author: Aqua Wu & Deon <igameguardian@gmail.com>
+Depiction: https://igg-server.herokuapp.com/
+Dev: aqua
+Name: Eye
+Sponsor: Aqua Wu & Deon <igameguardian@gmail.com>
+
