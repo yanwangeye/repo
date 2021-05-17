@@ -1,3 +1,18 @@
+Package: apt.xlyios.vip.2.1
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: 颜王Eye
+Installed-Size: 7168
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/百事2.deb
+Size: 1442288
+MD5sum: b00e1d4ddbda75a7509bf45d5de7f59f
+SHA1: 16347cde1d2cb6d753085510c6ca9ab0193e7ad3
+SHA256: 2c241c83528fd72233708127c0ce9382fa609d7cb3c599eab95ff162444970a1
+Section: Nice辅助
+Author: 颜王Eye
+Name: 百事
+
 Package: com.pwn20wnd.semirestore11
 Version: 1.1-2
 Architecture: iphoneos-arm
@@ -6,7 +21,7 @@ Installed-Size: 188
 Depends: cy+cpu.arm64, coreutils-bin, firmware (>= 11.3), firmware (<< 11.4.1)
 Conflicts: org.coolstar.semirestore11-lite
 Replaces: org.coolstar.semirestore11-lite
-Filename: ./debs/非固件一键平刷.deb
+Filename: ./debs/#U975e#U56fa#U4ef6#U4e00#U952e#U5e73#U5237.deb
 Size: 50888
 MD5sum: 3a4cf2bb1c59fbe23cfd3d515ff0d4af
 SHA1: 71eb91815294b234df4b229828468056385dbeb9
@@ -19,29 +34,13 @@ Depiction: https://repo.chariz.io/package/com.pwn20wnd.semirestore11/
 Icon: file:///Applications/Rollectra.app/AppIcon29x29@2x.png
 Name: SemiRestore11 / Rollectra
 
-Package: com.xxxx.yyyy2
-Version: 1.4.8
-Architecture: iphoneos-arm
-Maintainer: noname
-Installed-Size: 7168
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/百事（铂金）.deb
-Size: 1918686
-MD5sum: 4c15ef9d741efc32d50f494520da51db
-SHA1: 01daa7e34cd3bb2defd737bb71d201263acbfe15
-SHA256: 7f83969e1c7eebb687db441262dec29a4fa4ef8afd027b87f3b4a774f0bbf419
-Section: System
-Description: 百事
-Author: noname
-Name: 百事
-
 Package: idv.aqua.eye
 Version: 12.1
 Architecture: iphoneos-arm
 Maintainer: Aqua Wu & Deon <igameguardian@gmail.com>
 Installed-Size: 1372
 Depends: firmware (>= 11.0)
-Filename: ./debs/IME伪装颜王.deb
+Filename: ./debs/IME#U4f2a#U88c5#U989c#U738b.deb
 Size: 403948
 MD5sum: a4d6f599a25d8774f67818846c64a725
 SHA1: 01651d64bed2728be2a13767662619a0f01b05ad
